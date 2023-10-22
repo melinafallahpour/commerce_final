@@ -40,3 +40,6 @@ Requires Python3 and the package installer for Python (pip) to run:
 Built with [`Python`](https://www.python.org/downloads/), [`Django`](https://www.djangoproject.com/), and HTML/CSS.
 
 
+[Live App](https://melapo.pythonanywhere.com/)
+
+![alt text](img/todoHome.jpg "App Preview")
