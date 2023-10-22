@@ -42,4 +42,4 @@ Built with [`Python`](https://www.python.org/downloads/), [`Django`](https://www
 
 [Live App](https://melapo.pythonanywhere.com/)
 
-![alt text](img/todoHome.jpg "App Preview")
+![alt text](listings.jpg "App Preview")
